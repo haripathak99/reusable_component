@@ -16,7 +16,7 @@ function App() {
         source="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoRGyXmHy_6aIgXYqWHdOT3KjfmnuSyxypw&s"
         width={300}
         height={200}
-        alt="Girl with camera"
+        alt="Girl with camera it looks good"
       />
     </>
   );
